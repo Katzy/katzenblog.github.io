@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Katz 
+title:            Katzy  
 tagline:          ...a yellow brick blog.
 url:              http://katzy.github.io
 paginate:         1
