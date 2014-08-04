@@ -15,18 +15,7 @@ Fast forward a few decades and insert many firsts (and lasts), experiences that 
 
 Here I am now, re-committing myself to the world of code.  In this journey I seek to not only learn the language of the new literacy, but I intend to recode my life.  Imagine that, recoding an organism via the coding of an inanimate object.  
 
-<<<<<<< HEAD
+
 It is my intention for this blog to serve as a repository for ideas I ; that my growth in this field will be continuously stimulated.  I also hope that anyone who follows in their own similar (or dissimilar) hero's journey, may draw strength from seeing me fall along the way and watching me get back up.
   
------
-
-=======
-It is my intention for this blog to serve as a repository for my ideas that my growth in this field will be continuously stimulated.  I also hope that anyone who follows in their own similar (or dissimilar) hero's journey, they may draw strength from seeing me fall along the way and watching me get back up.
-
-Not that I'm keeping record, but I do believe I've fallen 43 thousand times prior to being able to post this blog.  
-  
------
-
-
->>>>>>> 732c1f459c108e4a13759184ed42b7f59e320a65
 Thanks for stopping by!
