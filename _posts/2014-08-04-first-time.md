@@ -13,7 +13,7 @@ This signified the first loop in my brain that were it not for standing between 
 
 Fast forward a few decades and insert many firsts (and lasts), experiences that I would never trade, that have defined me.
 
-Here I am now, re-committing myself to the world of code.  In this journey I seek to not only learn the language of the new literacy, but I intend to recode my life.  Imagine that, recoding an organism via the coding of an inanimate object.  
+Here I am now, re-committing myself to the world of code.  In this journey I seek to not only learn the language of the new literacy, but I intend to recode my life.  Imagine that, re-coding an organism via the coding of an inanimate object.  
 
 
 It is my intention for this blog to serve as a repository for ideas; that my growth in this field will be continuously stimulated.  I also hope that anyone who follows in their own similar (or dissimilar) hero's journey, may draw strength from seeing me fall along the way and watching me get back up.
